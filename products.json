@@ -1,0 +1,34 @@
+[
+    {
+        "id": "SP001",
+        "name": "Samsung Galaxy S24 Ultra",
+        "category": "Điện thoại",
+        "description": "Điện thoại cao cấp của Samsung với màn hình Dynamic AMOLED 2X 6.8 inch, camera 200MP, pin 5000mAh, và bút S Pen tích hợp.",
+        "price": 30000000,
+        "features": ["Màn hình lớn", "Pin trâu", "Camera chất lượng cao", "Có S Pen"]
+    },
+    {
+        "id": "SP002",
+        "name": "iPhone 15 Pro Max",
+        "category": "Điện thoại",
+        "description": "Điện thoại flagship của Apple với màn hình Super Retina XDR 6.7 inch, chip A17 Pro, hệ thống camera chuyên nghiệp với ống kính tele 5x.",
+        "price": 34000000,
+        "features": ["Màn hình lớn", "Hiệu năng mạnh", "Camera chuyên nghiệp", "Hệ sinh thái Apple"]
+    },
+    {
+        "id": "SP003",
+        "name": "Dell XPS 15",
+        "category": "Laptop",
+        "description": "Laptop cao cấp dành cho công việc với màn hình InfinityEdge 15.6 inch, bộ vi xử lý Intel Core i7 thế hệ mới, RAM 16GB, SSD 512GB. Thiết kế mỏng nhẹ, vỏ nhôm nguyên khối.",
+        "price": 28000000,
+        "features": ["Màn hình đẹp", "Hiệu năng cao", "Thiết kế mỏng nhẹ", "Vỏ kim loại"]
+    },
+    {
+        "id": "SP004",
+        "name": "Sony WH-1000XM5",
+        "category": "Tai nghe",
+        "description": "Tai nghe chống ồn chủ động hàng đầu, âm thanh Hi-Res Audio, thời lượng pin 30 giờ, đệm tai mềm mại, kết nối đa điểm.",
+        "price": 7000000,
+        "features": ["Chống ồn tốt", "Âm thanh chất lượng cao", "Pin lâu", "Thoải mái khi đeo"]
+    }
+]
